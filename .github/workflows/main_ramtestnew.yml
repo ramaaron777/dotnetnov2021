@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'ramtestnew'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8E78F0E09881407F9936C9402026E5C2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F1D2F7D97BE7416595567C97E26FE495 }}
           package: .
